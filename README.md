@@ -1,2 +1,1 @@
-# toutiao
-scrapy-redis,scrapy
+- 今日头条科技模块爬取
